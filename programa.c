@@ -19,6 +19,10 @@ int main(){
 
 	//adicionar
 
+	for(i=0;i<5;i++){
+		printf("O numero foi: %d",a);	
+	}
+
 	return 0;
 
 
