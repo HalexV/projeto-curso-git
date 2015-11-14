@@ -23,6 +23,8 @@ int main(){
 		printf("O numero foi: %d",a);	
 	}
 
+	printf("O numero foi: %d",a);	
+	
 	return 0;
 
 
